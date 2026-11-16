@@ -1,0 +1,1 @@
+{"dimensions":{"height":800,"width":1280},"routes":[{"name":"1-board","url":"#/"},{"name":"2-bounty","url":"#/bounty/threejs-fps-02"},{"name":"3-leaderboard","url":"#/bounty/threejs-fps-02/leaderboard"}],"wait":15000}
